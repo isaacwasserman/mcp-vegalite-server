@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/isaacwasserman-mcp-vegalite-server-badge.png)](https://mseep.ai/app/isaacwasserman-mcp-vegalite-server)
+
 # Data Visualization MCP Server
 [![smithery badge](https://smithery.ai/badge/mcp-server-vegalite)](https://smithery.ai/server/mcp-server-vegalite)
 
